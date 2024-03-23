@@ -1,1 +1,1 @@
-# -Bootcamp-SQL-Assignment
+This assignment is part of 12 week intensive bootcamp, I utilized a sample database known as the "world" database. This database contains comprehensive information about countries, cities, and languages from around the globe. Leveraging this dataset, I undertook various tasks aimed at honing my skills in SQL querying and database manipulation.
